@@ -8,5 +8,5 @@ The principal challenge is divided in the following sections.
 2. Exploring Symmetry in Curves:check for lines of symmetry where the shape can be divided into mirrored halves for reflection symmetry.
 
    
-3.Completing Incomplete Curves: Imagine a set of 2D curves that have been ”planarized,” meaning any overlapping portions have been removed, leaving gaps or partial holes in the curves. The task is to
+3. Completing Incomplete Curves: Imagine a set of 2D curves that have been ”planarized,” meaning any overlapping portions have been removed, leaving gaps or partial holes in the curves. The task is to
 complete these curves in a natural way.
